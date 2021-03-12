@@ -7,9 +7,9 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a shared state AJAX drawing program
 
-Contributors / Licensing
+Source 
 ========================
-
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+https://attacomsian.com/blog/xhr-json-post-request
+https://github.com/Matt-Jensen/nayuki-canvas
 
 
