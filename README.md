@@ -9,7 +9,7 @@ Make a shared state AJAX drawing program
 
 Source 
 ========================
-# https://attacomsian.com/blog/xhr-json-post-request
-# https://github.com/Matt-Jensen/nayuki-canvas
+## https://attacomsian.com/blog/xhr-json-post-request
+## https://github.com/Matt-Jensen/nayuki-canvas
 
 
